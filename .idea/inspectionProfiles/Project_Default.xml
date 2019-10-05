@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="BubbleSort" />
+          <option value="Plot.use_turtle.width" />
+          <option value="Plot.use_turtle.forward" />
+          <option value="Plot.use_turtle.right" />
+          <option value="Plot.use_turtle.pencolor" />
+          <option value="Plot.use_turtle_star.pu" />
+          <option value="Plot.use_turtle_star.goto" />
+          <option value="Plot.use_turtle_star.pd" />
+          <option value="Plot.use_turtle_star.seth" />
+          <option value="Plot.use_turtle_star.fd" />
+          <option value="Plot.use_turtle_star.rt" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
